@@ -10,7 +10,7 @@ https://sotrh.github.io/learn-wgpu/beginner/tutorial8-depth/
 * cargo run --bin wgpu-08-depth-buffer
 * Use arrow keys to control camara
 
-* Compile and run second proram
+* Compile and run second program
 * cargo run --bin wgpu-08-depth-buffer-challenge
 * Use arrow keys to control camara
 ![alt text](https://github.com/carlosvneto/wgpu-08-depth-buffer/blob/main/images/screen.png?raw=true)
